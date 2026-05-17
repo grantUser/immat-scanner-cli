@@ -1,0 +1,23 @@
+# Credentials — NE JAMAIS committer
+firebase_token.json
+
+# APK source (trop lourd)
+*.xapk
+*.apk
+*.ab
+
+# Dossiers d'extraction
+extracted_*/
+app_data/
+certs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
